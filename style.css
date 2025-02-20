@@ -80,10 +80,6 @@ nav {
     align-items: center;
     justify-content: left;
     background: linear-gradient(45deg, black, #ffffff);
-    background-image: url(../images/Sathwik_Golla.png);
-    background-size: 450px;
-    background-repeat: no-repeat;
-    background-position: right;
     padding: 2rem;
 
 }
