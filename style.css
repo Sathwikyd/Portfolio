@@ -308,3 +308,21 @@ footer {
     padding: 10px;
 }
 
+.dark
+{
+    background-color: black;
+    color: white;
+}
+.light
+{
+    background-color: white;
+    color: black;
+}
+#mode
+{
+    background-color: rgb(60, 64, 60);
+    height: 35px;
+    width: 40px;
+    color: white;
+    cursor: pointer;
+}
